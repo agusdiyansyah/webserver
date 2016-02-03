@@ -1,4 +1,3 @@
-server/**
-!server/conf
-!server/vhosts
-app/**
+server/*
+!server/conf/
+app/*
